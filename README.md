@@ -2,6 +2,19 @@
 
 This is a web application that connects to a fake API to display a list of food items and allows users to create, remove, and edit food items.
 
+### Home
+
+![Captura de tela de 2023-04-04 16-43-15](https://user-images.githubusercontent.com/15384670/229907737-47d70870-3f65-4f97-b558-aea84ed58e32.png)
+
+### Modal Edit
+
+![Captura de tela de 2023-04-04 16-43-31](https://user-images.githubusercontent.com/15384670/229907854-1f5940f7-c635-48ba-9788-84353f92638c.png)
+
+### Modal Createad
+
+![Captura de tela de 2023-04-04 16-44-05](https://user-images.githubusercontent.com/15384670/229908490-a5177114-ed91-42d4-8458-02991028c27a.png)
+
+
 ## Installation
 To run this application, you need to have Node.js and NPM installed on your computer.
 
